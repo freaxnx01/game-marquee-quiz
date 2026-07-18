@@ -1,8 +1,7 @@
 {
-  "name": "text-mode-expansion",
+  "name": "marquee-quiz",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "The Marquee — a trivia quiz game.",
   "directories": {
     "doc": "docs"
   },
