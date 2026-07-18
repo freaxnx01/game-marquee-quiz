@@ -12,7 +12,7 @@ Nothing here is required — `site/index.html` already ships as a complete, high
 
 ## Content
 
-- [ ] Grow the `BANKS` question pool beyond the current ~58 questions (more emoji plots, quotes, facts, hilo pairs).
+- [x] Grow the `BANKS` question pool beyond the current ~58 questions (more emoji plots, quotes, facts, hilo pairs). — done: the `text-mode-expansion` branch added 14 new text-based quiz modes plus a Budget metric, spanning 6 categories (Classics, Knowledge, Connection, Fun Facts, Series-Specific, Cross-over; 19 mode/category pairs total) and ~150+ new question items.
 - [ ] Consider a difficulty tag on questions, mirroring Acronym Quiz's difficulty-select pattern.
 
 ## Reimplementation reference
