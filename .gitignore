@@ -1,2 +1,4 @@
 .worktrees/
 .superpowers/
+template.html
+node_modules/
